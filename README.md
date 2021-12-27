@@ -1,5 +1,7 @@
 🔭 I’m currently working on Web Development.
+
 🌱 I’m currently learning React Advanced Topics.
+
 💬 Ask me about web application development.
 
 <!---
