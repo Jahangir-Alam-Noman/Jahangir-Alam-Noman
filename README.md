@@ -8,7 +8,7 @@ Experienced MERN stack developer with a demonstrated history of working in the c
 
 Skills: HTML5/CSS3/ JAVASCRIPT/ ES6/REACT/NODE JS /EXPRESS JS/ MONGODB/FIREBASE/ SPA/ MATERIAL UI/ TAILWIND CSS / SCSS/ REACT BOOTSTRAP/ REST API/ CONTEXT API / FIGMA.
 
-- 🔭 I’m currently working on working on Web Development. 
+- 🔭 I’m currently working on Web Development. 
 - 🌱 I’m currently learning React Advanced Topics. 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about web application development . 
