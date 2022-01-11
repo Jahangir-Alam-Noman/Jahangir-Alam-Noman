@@ -4,7 +4,7 @@
 #### React Developer
 
 
-Hello, Experienced MERN stack developer with a demonstrated history of working in the computer software industry. Skilled in Front End technologies such as Html5 , Css3 , JavaScript , React , BootStrap, Material UI, Sass, and Back End technologies such as Node.JS, Express JS and MongoDb. I am looking for a challenging opportunity that will enable me to use my skills and abilities to achieve a challenging goal.
+Experienced MERN stack developer with a demonstrated history of working in the computer software industry. Skilled in Front End technologies such as Html5 , Css3 , JavaScript , React , BootStrap, Material UI, Sass, and Back End technologies such as Node.JS, Express JS and MongoDb. I am looking for a challenging opportunity that will enable me to use my skills and abilities to achieve a challenging goal.
 
 Skills: HTML5/CSS3/ JAVASCRIPT/ ES6/REACT/NODE JS /EXPRESS JS/ MONGODB/FIREBASE/ SPA/ MATERIAL UI/ TAILWIND CSS / SCSS/ REACT BOOTSTRAP/ REST API/ CONTEXT API / FIGMA.
 
